@@ -1,1 +1,1 @@
-Build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+The main aim of this project is used to build a model to predict whether the most of the passengers are survived or not using Logistic Regression.
